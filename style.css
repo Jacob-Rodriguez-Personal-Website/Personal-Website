@@ -1,3 +1,11 @@
- .hobby-1{
+ .hobby1{
 color: rgb(247, 72, 72); 
+ }
+
+ .hobby2{
+    color: rgb(238, 193, 115);
+ }
+
+ body{
+    background-color: rgb(167, 96, 234);
  }
