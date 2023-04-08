@@ -8,4 +8,66 @@ color: rgb(247, 72, 72);
 
  body{
     background-color: rgb(167, 96, 234);
+    margin: 0px;
  }
+
+ header{
+    display: flex; 
+    justify-content: space-between;
+    background-color: rgb(249, 236, 211);
+    padding-left:21px ;
+    padding-right: 21px;
+ }
+  
+ nav{
+    font-size: 32px;
+    margin-top: 21.21px ;
+    margin-bottom: 21px;
+  }
+
+  #content-container{
+    background-color: purple;
+    min-height: 100vh;
+    padding-left: 24px;
+    padding-right: 24px; 
+    color: white;
+  }
+
+  .heading-nomargin-top{
+    margin-top: 0px;
+  }
+
+  .about-img{
+    width: 100px;
+  }
+
+  .about-img-1{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .about-section{
+    color: inherit;
+    border-top: 1px solid white;
+  }
+
+  .about-img-2{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .about-img-3{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .pro-img-1{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  
