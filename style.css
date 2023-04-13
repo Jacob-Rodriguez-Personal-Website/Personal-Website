@@ -70,4 +70,18 @@ color: rgb(247, 72, 72);
     margin-bottom: 10px;
   }
 
-  
+  #form-layout{
+    color: rgb(255, 255, 255);
+    padding-left: 25px;
+    font-size: larger;
+  }
+
+  #submit-container{
+    text-align: center;
+  }
+
+  @media (max-width: 1000px) {
+    body {
+      color: blue;
+    }
+  }
